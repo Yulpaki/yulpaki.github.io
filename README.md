@@ -1,4 +1,4 @@
-## Bienvenidos al blog
+## Bienvenidos/as al blog
 
 ### Charts
 
